@@ -1,0 +1,14 @@
+.btn {
+    @apply py-4 px-8 rounded-lg;
+    font-weight: 500;
+    font-size: 18px;
+
+    &--primary {
+
+    }
+
+    &--pink {
+        color: white;
+        background-image: $gradient-purple-pink;
+    }
+}

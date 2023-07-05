@@ -1,0 +1,35 @@
+body {
+    @apply text-plain;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    @apply text-heading;
+}
+
+svg {
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-weight: 300;
+    line-height: 28px;
+
+    &.intro {
+        font-size: 20px;
+        line-height: 32px;
+    }
+}
+
+i {
+    font-family: 'Noto Sans', sans-serif;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 28px;
+}

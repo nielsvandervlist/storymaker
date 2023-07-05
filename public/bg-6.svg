@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <defs>
+        <linearGradient x1="12.6152778%" y1="16.8311445%" x2="100%" y2="94.0996243%" id="linearGradient-1">
+            <stop stop-color="#98F6FF" offset="0%"></stop>
+            <stop stop-color="#4C72FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="215" height="215"></rect>
+        <linearGradient x1="8.20693366%" y1="53.9929271%" x2="29.9693197%" y2="57.1919414%" id="linearGradient-4">
+            <stop stop-color="#749DFF" offset="0%"></stop>
+            <stop stop-color="#6A74FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.45667632%" y1="55.5763278%" x2="47.0349382%" y2="52.2185775%" id="linearGradient-5">
+            <stop stop-color="#7491FF" offset="0%"></stop>
+            <stop stop-color="#846AFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.45667632%" y1="55.5851791%" x2="29.9693197%" y2="57.1974176%" id="linearGradient-6">
+            <stop stop-color="#74C1FF" offset="0%"></stop>
+            <stop stop-color="#6AB0FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.9142794%" y1="27.0342269%" x2="64.0658419%" y2="74.6325639%" id="linearGradient-7">
+            <stop stop-color="#74BFFF" offset="0%"></stop>
+            <stop stop-color="#83FF98" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-925.000000, -584.000000)">
+            <g id="Path" transform="translate(925.000000, 584.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                <g id="Group-4" mask="url(#mask-3)">
+                    <g transform="translate(-172.000000, -96.000000)">
+                        <path d="M265.423508,347.867463 C241.164387,297.104453 254.952772,263.552186 306.788664,247.210664 C358.624556,230.869142 388.2272,196.314904 395.596597,143.547951 L516.528183,155.984886 L495.051611,335.726084 L443.540293,365.390758 L290.587791,360.816639 L265.423508,347.867463 Z" id="Path-2-Copy" fill="url(#linearGradient-4)" transform="translate(385.175482, 254.469355) rotate(-345.000000) translate(-385.175482, -254.469355) "></path>
+                        <path d="M56.6251385,247.424482 C32.324069,196.622468 46.122028,163.051231 98.0190155,146.710772 C149.916003,130.370313 179.547771,95.800056 186.914319,43 L308,55.4727476 L286.537665,235.327532 L234.968705,265 L81.8238564,260.387941 L56.6251385,247.424482 Z" id="Path-2-Copy-2" fill="url(#linearGradient-5)" transform="translate(176.500000, 154.000000) rotate(-180.000000) translate(-176.500000, -154.000000) "></path>
+                        <path d="M49.807686,303.595173 C18.8538522,238.834047 36.4291992,196.038281 102.533727,175.207876 C168.638255,154.377472 206.382141,110.308179 215.765387,43 L370,58.899944 L342.662045,288.174287 L276.975346,326 L81.9049121,320.120663 L49.807686,303.595173 Z" id="Path-2-Copy-6" fill="url(#linearGradient-6)" opacity="0.6" transform="translate(202.500000, 184.500000) rotate(-197.000000) translate(-202.500000, -184.500000) "></path>
+                        <path d="M299.354187,319.33296 C281.890681,282.718896 291.806324,258.52341 329.101118,246.746503 C366.395911,234.969595 387.690223,210.054094 392.984054,172 L480,180.989368 L464.576497,310.614438 L427.517434,332 L317.462771,328.675993 L299.354187,319.33296 Z" id="Path-2" fill="url(#linearGradient-7)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

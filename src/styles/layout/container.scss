@@ -1,0 +1,19 @@
+.f-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &__content {
+        @apply p-10;
+        max-width: 1440px;
+        width: 100%;
+    }
+
+    &--small {
+        .f-container__content {
+            max-width: 960px;
+        }
+    }
+}

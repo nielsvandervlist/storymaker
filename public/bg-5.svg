@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <defs>
+        <linearGradient x1="27.9442579%" y1="20.3136584%" x2="100%" y2="94.0996243%" id="linearGradient-1">
+            <stop stop-color="#FF98EF" offset="0%"></stop>
+            <stop stop-color="#A04CFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="215" height="215"></rect>
+        <linearGradient x1="38.0058939%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#E58EFF" offset="0%"></stop>
+            <stop stop-color="#FF6DD0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="38.0058939%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FF8EDD" offset="0%"></stop>
+            <stop stop-color="#876DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="38.0058939%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#DBAFFF" offset="0%"></stop>
+            <stop stop-color="#FF6DD0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.865011%" y1="7.17617853%" x2="72.9658593%" y2="87.560458%" id="linearGradient-7">
+            <stop stop-color="#5BE6FF" offset="0%"></stop>
+            <stop stop-color="#E9FF33" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="33.1304105%" y1="11.5082182%" x2="69.2758666%" y2="78.8508954%" id="linearGradient-8">
+            <stop stop-color="#D4FF51" offset="0%"></stop>
+            <stop stop-color="#69D629" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="40.1470958%" y1="0%" x2="68.0019242%" y2="90.4368252%" id="linearGradient-9">
+            <stop stop-color="#FFF056" offset="0%"></stop>
+            <stop stop-color="#FDA47A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.6683937%" y1="12.5623486%" x2="67.3445863%" y2="92.3503035%" id="linearGradient-10">
+            <stop stop-color="#FEFFA3" offset="0%"></stop>
+            <stop stop-color="#FFEA37" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.11251253%" y1="73.7944224%" x2="85.9004675%" y2="31.1182297%" id="linearGradient-11">
+            <stop stop-color="#FEFFA3" offset="0%"></stop>
+            <stop stop-color="#F7E127" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="72.9658593%" y1="87.560458%" x2="23.865011%" y2="7.17617853%" id="linearGradient-12">
+            <stop stop-color="#5BE6FF" offset="0%"></stop>
+            <stop stop-color="#E9FF33" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-637.000000, -584.000000)">
+            <g id="Path" transform="translate(637.000000, 584.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                <circle id="Oval" fill="url(#linearGradient-4)" fill-rule="nonzero" mask="url(#mask-3)" cx="121" cy="126" r="132"></circle>
+                <circle id="Oval-Copy-4" fill="url(#linearGradient-5)" fill-rule="nonzero" opacity="0.751906622" mask="url(#mask-3)" cx="104" cy="100" r="100"></circle>
+                <circle id="Oval-Copy-3" fill="url(#linearGradient-6)" fill-rule="nonzero" mask="url(#mask-3)" cx="128.5" cy="129.5" r="60.5"></circle>
+                <g id="Group-5" mask="url(#mask-3)">
+                    <g transform="translate(-30.000000, -35.000000)">
+                        <circle id="Oval-6" fill="url(#linearGradient-7)" cx="89.5" cy="92.5" r="80.5"></circle>
+                        <circle id="Oval-6-Copy" fill="url(#linearGradient-8)" cx="197.5" cy="92.5" r="80.5"></circle>
+                        <circle id="Oval-6-Copy-4" fill="url(#linearGradient-8)" cx="209.5" cy="55.5" r="55.5"></circle>
+                        <circle id="Oval-6-Copy-2" fill="url(#linearGradient-9)" cx="197.5" cy="199.5" r="80.5"></circle>
+                        <circle id="Oval-6-Copy-5" fill="url(#linearGradient-9)" cx="224" cy="226" r="54"></circle>
+                        <circle id="Oval-6-Copy-10" fill="url(#linearGradient-9)" cx="194" cy="115" r="9"></circle>
+                        <circle id="Oval-6-Copy-13" fill="url(#linearGradient-9)" cx="170.5" cy="61.5" r="6.5"></circle>
+                        <circle id="Oval-6-Copy-3" fill="url(#linearGradient-10)" cx="80.5" cy="201.5" r="80.5"></circle>
+                        <circle id="Oval-6-Copy-6" fill="url(#linearGradient-11)" cx="65" cy="226" r="43"></circle>
+                        <circle id="Oval-6-Copy-8" fill="url(#linearGradient-7)" cx="68.5" cy="67.5" r="39.5"></circle>
+                        <circle id="Oval-6-Copy-14" fill="url(#linearGradient-12)" cx="224.5" cy="169.5" r="13.5"></circle>
+                        <circle id="Oval-6-Copy-9" fill="url(#linearGradient-12)" cx="156" cy="94" r="19"></circle>
+                        <circle id="Oval-6-Copy-11" fill="url(#linearGradient-7)" cx="120" cy="181" r="8"></circle>
+                        <circle id="Oval-6-Copy-7" fill="url(#linearGradient-10)" cx="86" cy="125" r="10"></circle>
+                        <circle id="Oval-6-Copy-17" fill="url(#linearGradient-10)" cx="106" cy="62" r="4"></circle>
+                        <circle id="Oval-6-Copy-12" fill="url(#linearGradient-9)" cx="99" cy="213" r="5"></circle>
+                        <circle id="Oval-6-Copy-15" fill="url(#linearGradient-9)" cx="59" cy="181" r="10"></circle>
+                        <circle id="Oval-6-Copy-16" fill="url(#linearGradient-9)" cx="84" cy="84" r="12"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

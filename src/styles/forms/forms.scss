@@ -1,0 +1,13 @@
+input, textarea {
+    @apply border border-border rounded-lg;
+
+    &::placeholder {
+       @apply text-plain;
+    }
+}
+
+textarea {
+    @apply p-8;
+}
+
+
